@@ -1,0 +1,6 @@
+repayment_id,loan_id,due_date,payment_date,amount_due,amount_paid,payment_status
+RP001,LN1001,2026-01-05,2026-01-05,5200,5200,Paid
+RP002,LN1001,2026-02-05,2026-02-07,5200,5200,Paid Late
+RP003,LN1002,2026-02-10,,7400,0,Overdue
+RP004,LN1003,2026-03-01,2026-03-01,6100,6100,Paid
+RP005,LN1004,2026-03-15,,4300,0,Pending
